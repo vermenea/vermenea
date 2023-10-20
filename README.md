@@ -1,6 +1,6 @@
 # Welcome to My profile 👋
 
-I'm [Natalia], Biologist, programming and compSCI enthusiast. I started my coding journey 3 months ago (1.08.2023) and my goal is to land my first job in a year 🚀
+I'm ***Natalia***, Biologist, programming and compSCI enthusiast. I started my coding journey 3 months ago (1.08.2023) and my goal is to land my first job in a year 🚀
 
 ## My Stack 
 
