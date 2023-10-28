@@ -1,6 +1,6 @@
 # Welcome to My profile 👋
 
-I'm ***Natalia***, Biologist, programming and compSCI enthusiast. I started my coding journey 3 months ago (1.08.2023) and my goal is to land my first job in a year 🚀
+I'm ***Natalia***, Biologist and compSCI enthusiast. I started my coding journey 3 months ago (1.08.2023) and my goal is to land my first job in a year 🚀
 
 ## My Stack 
 
@@ -10,12 +10,12 @@ I'm ***Natalia***, Biologist, programming and compSCI enthusiast. I started my c
 
 ## 💼 Currently Working On
 
-- 🌱 Advancing my skills in [JavaScript]
+- 🌱 Advancing my skills in [JavaScript and React]
 - 🚀 Building [Escaperooms website and reservations system]
 
 ## 🎯 Future plans about my Stack
 
-- ⌨️ React 🔜 TypeScript 🔜 MongoDB 🔜 NodeJS 🔜 R 
+- React 🔜 TypeScript 🔜 MongoDB 🔜 NodeJS 🔜 Next.js
 
 ## 🌐 Where to Find Me
 
