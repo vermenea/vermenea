@@ -5,17 +5,18 @@ I'm ***Natalia***, Biologist and compSCI enthusiast. I started my coding journey
 ## My Stack 
 
 - 👨‍💻 Programming Languages: HTML5, CSS, JavaScript
-- 🌐 Technologies: SASS, RWD, Bootstrap
-- 🛠️ Tools: Visual Studio Code, Git, GitHub, chatGPT
+- 🌐 Frameworks: SASS, React(learning), Bootstrap
+- 🔧 Other skills: Responsive Web Design, SEO, Semantics and clean code
+- 🛠️ Tools: Visual Studio Code, Git, GitHub, chatGPT, Stack Overflow, Gulp, npm
 
 ## 💼 Currently Working On
 
-- 🌱 Advancing my skills in [JavaScript and React]
-- 🚀 Building [Escaperooms website and reservations system]
+- 🌱 Advancing my skills in [JavaScript, React, Typescript]
+- 🚀 Building [Escaperooms website]
 
 ## 🎯 Future plans about my Stack
 
-- React 🔜 TypeScript 🔜 MongoDB 🔜 NodeJS 🔜 Next.js
+- React 🔜 TypeScript 🔜 Tailwind 🔜 Next.js
 
 ## 🌐 Where to Find Me
 
