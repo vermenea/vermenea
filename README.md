@@ -1,6 +1,6 @@
 <p  align="center">
   <img src="https://media1.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif"  alt="GIF" 
-  width="100%" height="30%" style="position:absolute" frameBorder="0"></img>
+  width="100%" height="20%" style="position:absolute" frameBorder="0"></img>
 </p>
 
 
