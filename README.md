@@ -1,6 +1,3 @@
-![](https://media1.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif)
-
-
 <h1 align="center">Hi, I'm Natalia</h1>
 <h3 align="center">Biologist and compSCI enthusiast. I started my coding journey 3 months ago (1.08.2023) and my goal is to land my first job in a year 🚀</h3>
 
@@ -11,7 +8,7 @@
 <a href="https://linkedin.com/in/nzag00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nzag00" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>       <p align="right><![](https://media1.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif)</p>
 
 <p align="left">
   <a href="https://skillicons.dev">
