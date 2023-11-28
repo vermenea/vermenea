@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/S8rWeMk5v022c6Z9nS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecanstem-science-technology-stem-S8rWeMk5v022c6Z9nS">via GIPHY</a></p>
+!([link_do_twojego_pliku.gif](https://media1.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif?cid=ecf05e47qgg4po9n4bmv98wfeo1e0j1vdxvsynm7dx6e70tj&ep=v1_gifs_related&rid=giphy.gif&ct=g))
+
 <h1 align="center">Hi, I'm Natalia</h1>
 <h3 align="center">Biologist and compSCI enthusiast. I started my coding journey 3 months ago (1.08.2023) and my goal is to land my first job in a year 🚀</h3>
 
