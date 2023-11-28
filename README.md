@@ -8,17 +8,18 @@
 <a href="https://linkedin.com/in/nzag00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nzag00" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3><p align="right">
-  <img src="https://media1.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif" alt="GIF" width="200"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
 
-
+<div>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,git,stackoverflow" />
   </a>
 </p>
-
+  <p align="right">
+  <img src="https://media1.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif" alt="GIF" width="400"/>
+</p>
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zagorxka&show_icons=true&locale=en&layout=compact" alt="zagorxka" /></p>
 
