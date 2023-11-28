@@ -10,9 +10,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, js, react, sass, bootstrap, git, stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,git,stackoverflow" />
   </a>
 </p>
 
