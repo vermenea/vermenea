@@ -1,5 +1,7 @@
+<p  align="center">
+  <img  src="https://media1.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif" alt="GIF" width="600"/>
+</p>
 
-<img  align="center" src="https://media1.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif" alt="GIF" width="600"/>
 
 <h1 align="center">Hi, I'm Natalia</h1>
 <h3 align="center">Biologist and compSCI enthusiast. I started my coding journey 3 months ago (1.08.2023) and my goal is to land my first job in a year 🚀</h3>
