@@ -1,11 +1,11 @@
 <p  align="center">
   <img src="https://media1.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif"  alt="GIF" 
-  width="100%" height="400" style="position:absolute" frameBorder="0"></img>
+  width="100%" frameBorder="0"></img>
 </p>
 
 
 <h1 align="center">Hi, I'm Natalia</h1>
-<h3 align="center">Biologist and compSCI enthusiast. I started my coding journey 4 months ago (1.08.2023) and my goal is to land my first job in a year 🚀</h3>
+<h3 align="center">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023) and my goal is to land my first job in a year 🚀</h3>
 
 - 📫 How to reach me **n.zag@wp.pl**
 
