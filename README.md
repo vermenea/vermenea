@@ -1,5 +1,5 @@
 <p  align="center">
-  <img src="[https://media1.giphy.com/media/S8rWeMk5v022c6Z9nS/giphy.gif](https://tenor.com/view/hello-world-gif-18564330)"  alt="GIF" 
+  <img src="https://tenor.com/view/hello-world-gif-18564330"  alt="GIF" 
   width="100%" frameBorder="0"></img>
 </p>
 
