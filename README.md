@@ -1,6 +1,5 @@
 <p  align="center">
-  <img src="[https://tenor.com/view/hello-world-gif-18564330](https://media1.tenor.com/m/mGgWY8RkgYMAAAAC/hello-world.gif)"  alt="GIF" 
-  width="100%" frameBorder="0"></img>
+  <img src="https://media1.tenor.com/m/mGgWY8RkgYMAAAAC/hello-world.gif" alt="GIF" width="100%" style="border:0;">
 </p>
 
 
