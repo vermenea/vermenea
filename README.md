@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Natalia</h1>
 <h3 align="center">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023) and my goal is to land my first job in a year 🚀</h3>
 
-- 📫 How to reach me **n.zag@wp.pl**
+- 📫 How to reach me **vermenea@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
