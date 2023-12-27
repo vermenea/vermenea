@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Terminus&pause=1000&color=B1120C&random=false&width=435&lines=%3Cp%3EHello+World!%3C%2Fp%3E" alt="Typing SVG" /></a>
+<img alt="Hello World" align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=false&vCenter=true&width=435&lines=Hello+I'm+Karol">
 <p  align="center">
   <img src="https://media1.tenor.com/m/mGgWY8RkgYMAAAAC/hello-world.gif" alt="GIF" width="100%" height="50%" style="border:0;">
 </p>
