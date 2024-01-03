@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Terminus&pause=1000&color=B1120C&random=false&width=435&lines=%3Cp%3EHello+World%2C+my+name+is+Natalia%3C%2Fp%3E" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Terminus&pause=1000&color=B1120C&random=false&width=435&lines=%3Ch1%3EHello+World%2C+my+name+is+Natalia%3C%2Fh1%3E" alt="Typing SVG" /></a></h1>
 <p align="center">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023) and my goal is to land my first job in a year 🚀</p>
 
 📫 How to reach me **vermenea@gmail.com**
