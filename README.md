@@ -15,10 +15,13 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,sass,bootstrap,git,gulp,vite,stackoverflow,figma" />
   </a>
 </p>
-<p align="center" >
+<p align="left" >
     <a href="LINK TO: WHEN CLICKED">
       <img src="https://github.r2v.ch/codewars?user=vermenea" />
     </a>
+</p>
+<p align="right">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=vermenea&show_icons=true&locale=en&theme=transparent" alt="goodideagiver" />
 </p>
 
 
