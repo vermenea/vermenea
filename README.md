@@ -15,6 +15,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,sass,bootstrap,git,gulp,vite,stackoverflow,figma" />
   </a>
 </p>
-![Codewars](https://www.codewars.com/users/vermenea/badges/large)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=vermenea" />
+    </a>
+</p>
 
 
