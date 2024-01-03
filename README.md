@@ -18,7 +18,7 @@
 <p align="center">
     <a href="LINK TO: WHEN CLICKED">
       <img height="150" src="https://github.r2v.ch/codewars?user=vermenea" alt="codewars stats chart"/>
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermenea" alt="most used languages chart"/> 
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermenea&show_icons=true&locale=en&layout=compact&theme=transparent" alt="most used languages chart"/> 
     </a>
 </p>
 
