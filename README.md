@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Natalia</h1>
-<h2 align="center">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023) and my goal is to land my first job in a year 🚀</h2>
+<p align="center">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023) and my goal is to land my first job in a year 🚀</p>
 
 - 📫 How to reach me **vermenea@gmail.com**
 
@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,sass,bootstrap,git,gulp,vite,figma" />
   </a>
 </p>
-<p align="center">
+<p align="left">
     <a href="LINK TO: WHEN CLICKED">
       <img height="150" src="https://github.r2v.ch/codewars?user=vermenea" alt="codewars stats chart"/>
       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermenea&show_icons=true&locale=en&layout=compact&theme=transparent" alt="most used languages chart"/> 
