@@ -15,5 +15,5 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,sass,bootstrap,git,gulp,vite,stackoverflow,figma" />
   </a>
 </p>
-![Codewars](https://github.r2v.ch/codewars?user=vermenea&stroke=B1120C)
+![Codewars](https://github.r2v.ch/codewars?user=vermenea&stroke=#B1120C)
 
