@@ -2,17 +2,17 @@
 
 
 <h1 align="center">Hi, I'm Natalia</h1>
-<h3 align="center">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023) and my goal is to land my first job in a year 🚀</h3>
+<h2 align="center">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023) and my goal is to land my first job in a year 🚀</h2>
 
 - 📫 How to reach me **vermenea@gmail.com**
 
 
-<h3 align="left">Stuff I worked with:</h3>
+<h2 align="left">Stuff I worked with:</h2>
 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,sass,bootstrap,git,gulp,vite,npm,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,sass,bootstrap,git,gulp,vite,figma" />
   </a>
 </p>
 <p align="center">
