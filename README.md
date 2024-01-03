@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Natalia</h1>
 <p align="center">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023) and my goal is to land my first job in a year 🚀</p>
 
-- 📫 How to reach me **vermenea@gmail.com**
+📫 How to reach me **vermenea@gmail.com**
 
 
 <h2 align="left">Stuff I worked with:</h2>
