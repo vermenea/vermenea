@@ -15,6 +15,14 @@
     <img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,sass,tailwind,bootstrap,git,gulp,vite,figma" />
   </a>
 </p>
+
+<h2 align="left">Stuff Im learning:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r" />
+  </a>
+</p>
+
 <p align="left">
     <a href="LINK TO: WHEN CLICKED">
       <img height="150" src="https://github.r2v.ch/codewars?user=vermenea" alt="codewars stats chart"/>
