@@ -21,11 +21,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r" />
   </a>
-  Stuff I 🫀
-  * Tailwind CSS
-  * Stack Overflow
-  * Coffe ☕
 </p>
+
+<div>
+  <h2>Stuff I 🫀</h2> 
+ <p>* Tailwind CSS</p> 
+ <p>* Stack Overflow</p>
+ <p>* Coffe ☕</p>
+</div>
 
 <p align="left">
     <a href="LINK TO: WHEN CLICKED">
