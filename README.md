@@ -25,9 +25,9 @@
 
 <div>
   <h2>Stuff I 🫀</h2> 
- <p>* Tailwind CSS</p> 
- <p>* Stack Overflow</p>
- <p>* Coffe ☕</p>
+ <p>- Tailwind CSS</p> 
+ <p>- Stack Overflow</p>
+ <p>- Coffe ☕</p>
 </div>
 
 <p align="left">
