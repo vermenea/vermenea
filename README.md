@@ -21,6 +21,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r" />
   </a>
+  Stuff I 🫀
+  * Tailwind CSS
+  * Stack Overflow
+  * Coffe ☕
 </p>
 
 <p align="left">
