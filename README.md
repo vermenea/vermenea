@@ -2,7 +2,7 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71E15&random=false&width=435&lines=print(%22Hi!+I'm+Natalia%22)" alt="Typing SVG" /></a>
-<p align="left">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023) and my goal is to land my first job in a year 🚀</p>
+<p align="left">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023)🚀</p>
 
 📫 How to reach me **vermenea@gmail.com**
 
@@ -24,7 +24,7 @@
 </p>
 
 <div>
-  <h2>Stuff I 🫀</h2> 
+  <h2>Stuff I 🖤</h2> 
  <p>- Tailwind CSS</p> 
  <p>- Stack Overflow</p>
  <p>- Coffe ☕</p>
