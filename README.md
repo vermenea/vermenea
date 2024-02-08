@@ -12,23 +12,24 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,sass,tailwind,bootstrap,git,gulp,vite,figma" />
+    <img src="https://skillicons.dev/icons?i=py,js,react,ts,nodejs,sass,tailwind,bootstrap,git,gulp,vite,figma" />
   </a>
 </p>
 
 <h2 align="left">Stuff Im learning:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r" />
+    <img src="https://skillicons.dev/icons?i=linux,r,mysql" />
   </a>
 </p>
 
-<div>
-  <h2>Stuff I 🖤</h2> 
- <p>- Tailwind CSS</p> 
- <p>- Stack Overflow</p>
- <p>- Coffe ☕</p>
-</div>
+<h2 align="left">Doing as a hobby:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" />
+  </a>
+</p>
+
 
 <p align="left">
     <a href="LINK TO: WHEN CLICKED">
