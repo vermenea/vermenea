@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h2 align="left">Stuff Im learning:</h2>
+<h2 align="left">Stuff I want to:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,r,mysql" />
