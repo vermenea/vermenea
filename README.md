@@ -16,13 +16,6 @@
   </a>
 </p>
 
-<h2 align="left">Stuff I want to learn:</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,r,mysql" />
-  </a>
-</p>
-
 <h2 align="left">Doing as a hobby:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
