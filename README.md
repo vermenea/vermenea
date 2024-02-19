@@ -3,6 +3,7 @@
 <p align="left">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023)🚀</p>
 
 📫 How to reach me **vermenea@gmail.com**
+🪪 Linkedin **https://www.linkedin.com/in/vermenea/**
 
 ## Most recent project
 
