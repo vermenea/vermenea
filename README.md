@@ -2,8 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71E15&random=false&width=435&lines=print(%22Hi!+I'm+Natalia%22)" alt="Typing SVG" /></a>
 <p align="left">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023)🚀</p>
 
-<p>📫 How to reach me **vermenea@gmail.com**</p>
-<p>🪪 Linkedin **https://www.linkedin.com/in/vermenea/**</p>
+<p>📫 How to reach me: vermenea@gmail.com</p>
+<p>🪪 Linkedin: https://www.linkedin.com/in/vermenea/</p>
 
 
 ## Most recent project
