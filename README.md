@@ -19,6 +19,14 @@ and also on a money managing app MoneyWizard 🪄
   </a>
 </p>
 
+<h2 align="left">I want to learn:</h2>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,redux,wordpress,nextjs" />
+  </a>
+</p>
+
 <h2 align="left">Doing as a hobby:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
