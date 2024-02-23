@@ -8,9 +8,9 @@
 
 ## Most recent project
 
-Currently I'm working on a project: **[PomoBuddy](https://pomodoro-buddy.vercel.app)**
+Currently I'm working on a open source project --> online game myPet 🐾
 
-and also on a money managing app MoneyWizard 🪄
+and also on a money managing app MoneyWizard 🪄 and **[PomoBuddy](https://pomodoro-buddy.vercel.app)**
 
 <h2 align="left">Stuff I worked with:</h2>
 
