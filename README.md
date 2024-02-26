@@ -2,8 +2,6 @@
 ![Frontend developer](https://github.com/vermenea/vermenea/assets/141574626/5bcb2263-0282-4e07-b66e-6ba77c09625e)
 
 
-📫 **[Email me](vermenea@gmail.com)**
-
 
 ## Most recent project
 
