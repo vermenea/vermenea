@@ -12,12 +12,12 @@ Currently I'm working on a open source project --> online game myPet 🐾
 
 and also on a money managing app MoneyWizard and **[PomoBuddy](https://pomodoro-buddy.vercel.app)**
 
-<h2 align="left">Stuff I worked with:</h2>
+<h2 align="left">Stuff I know:</h2>
 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,react,ts,sass,tailwind,bootstrap,git,gulp,vite,jest,figma" />
+    <img src="https://skillicons.dev/icons?i=py,js,react,ts,sass,css,tailwind,bootstrap,git,jest,figma" />
   </a>
 </p>
 
