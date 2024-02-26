@@ -1,6 +1,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71E15&random=false&width=435&lines=print(%22Hi!+I'm+Natalia%22)" alt="Typing SVG" /></a>
-<p align="left">Biologist and compSCI enthusiast. I started my coding journey n months ago (1.08.2023)🚀</p>
+![Frontend developer](https://github.com/vermenea/vermenea/assets/141574626/5bcb2263-0282-4e07-b66e-6ba77c09625e)
+
+
 
 <p>📫 How to reach me: vermenea@gmail.com</p>
 <p>📮 Linkedin: https://www.linkedin.com/in/vermenea/</p>
@@ -17,7 +19,7 @@ and also on a money managing app MoneyWizard and **[PomoBuddy](https://pomodoro-
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,react,ts,sass,css,tailwind,bootstrap,git,jest,figma" />
+    <img src="https://skillicons.dev/icons?i=py,react,ts,sass,css,tailwind,bootstrap,git,jest,figma" />
   </a>
 </p>
 
