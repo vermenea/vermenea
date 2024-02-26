@@ -1,5 +1,4 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71E15&random=false&width=435&lines=print(%22Hi!+I'm+Natalia%22)" alt="Typing SVG" /></a>
 ![Frontend developer](https://github.com/vermenea/vermenea/assets/141574626/5bcb2263-0282-4e07-b66e-6ba77c09625e)
 
 
