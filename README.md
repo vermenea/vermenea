@@ -14,7 +14,7 @@ and also on a money managing app MoneyWizard and **[PomoBuddy](https://pomodoro-
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,react,ts,sass,css,tailwind,bootstrap,git,jest,figma" />
+    <img src="https://skillicons.dev/icons?i=py,react,ts,sass,css,tailwind,bootstrap,git,figma" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ and also on a money managing app MoneyWizard and **[PomoBuddy](https://pomodoro-
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,redux,wordpress,nextjs" />
+    <img src="https://skillicons.dev/icons?i=firebase,redux,wordpress,nextjs,r,docker,sql" />
   </a>
 </p>
 
