@@ -18,14 +18,6 @@ and also on a money managing app MoneyWizard and **[PomoBuddy](https://pomodoro-
   </a>
 </p>
 
-<h2 align="left">Doing as a hobby:</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi" />
-  </a>
-</p>
-
-
 <p align="left">
     <a href="LINK TO: WHEN CLICKED">
       <img height="150" src="https://github.r2v.ch/codewars?user=vermenea" alt="codewars stats chart"/>
