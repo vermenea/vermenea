@@ -14,7 +14,7 @@ and also on a money managing app MoneyWizard and **[PomoBuddy](https://pomodoro-
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,react,redux,ts,sass,css,tailwind,bootstrap,git,figma" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,sass,css,tailwind,bootstrap,git,figma,r, python" />
   </a>
 </p>
 
