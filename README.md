@@ -7,7 +7,7 @@
 
 Currently I'm working on a open source project --> online game myPet 🐾
 
-and also on a money managing app MoneyWizard and **[PomoBuddy](https://pomodoro-buddy.vercel.app)**
+and **[PomoBuddy](https://pomodoro-buddy.vercel.app)**
 
 <h2 align="left">Stuff I know:</h2>
 
