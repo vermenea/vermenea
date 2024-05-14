@@ -14,7 +14,7 @@ and **[PomoBuddy](https://pomodoro-buddy.vercel.app)**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,sass,css,tailwind,bootstrap,git,figma,r,py" />
+    <img src="https://skillicons.dev/icons?i=react,redux,ts,git,figma,r,py" />
   </a>
 </p>
 
