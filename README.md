@@ -7,14 +7,14 @@
 
 Currently I'm working on a open source project --> online game myPet 🐾
 
-and **[PomoBuddy](https://pomodoro-buddy.vercel.app)**
+and **[PomoBuddy](https://your-pomo-buddy.vercel.app/)**
 
 <h2 align="left">Stuff I know:</h2>
 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,ts,git,figma,r,py" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,git,figma,r,py" />
   </a>
 </p>
 
