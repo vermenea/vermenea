@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,git,figma,r,py" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,git,figma,mysql,r,py" alt="My Skills" />
   </a>
 </p>
 <p>Oh and by the way I LOOOVE working with Next.js 😎</p>
