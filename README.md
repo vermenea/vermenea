@@ -11,3 +11,10 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,git,figma,mysql,r,py" alt="My Skills" />
   </a>
 </p>
+
+## Stats
+
+<span>
+<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermenea&show_icons=true&locale=en&layout=compact&theme=transparent" alt="vermenea" /> 
+</span>
+
