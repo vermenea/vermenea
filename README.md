@@ -25,7 +25,7 @@
 </p>
 
 ### Data Science
- <img src="https://skillicons.dev/icons?i=mysql,r,py" alt="My Skills" />
+ <img src="https://skillicons.dev/icons?i=mysql,r,py,bash" alt="My Skills" />
 
 <details>
 <summary>Some Stats</summary>
