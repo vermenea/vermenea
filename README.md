@@ -1,3 +1,5 @@
+[![Codewars](https://www.codewars.com/users/vermenea/badges/micro)](https://www.codewars.com/users/vermenea)
+-------------------------------
 ## Stack:
 ### Front-End Development
 #### Languages & Frameworks
@@ -23,7 +25,7 @@
 
 ### Data Science
 <img src="https://skillicons.dev/icons?i=mysql,r,py,bash" alt="My Skills" />
-currently I'm trying out <img src="https://skillicons.dev/icons?i=sklearn" alt="My Skills" />
+
 
 <details>
 <summary>Some Stats</summary>
