@@ -12,7 +12,7 @@
 #### Styling & Designing
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,sass,tailwind,materialui,figma,ps" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=css,sass,tailwind,bootstrap,materialui,figma,ps" alt="My Skills" />
   </a>
 </p>
 
