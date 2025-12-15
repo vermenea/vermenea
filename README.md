@@ -1,7 +1,19 @@
 [![Codewars](https://www.codewars.com/users/vermenea/badges/micro)](https://www.codewars.com/users/vermenea)
--------------------------------
+
+
+## About me
+PhD candidate in Biological Sciences at the University of Gdańsk, currently focused on statistical analysis and data science in R and Python.
+I work mainly with biological data, data visualization, and reproducible research in autoimmune skin diseases.
+
+
 ## Stack:
-### Front-End Development
+
+### Data Science
+<img src="https://skillicons.dev/icons?i=mysql,r,py" alt="My Skills" />
+
+
+
+## Front-End Development
 #### Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
@@ -23,8 +35,6 @@
   </a>
 </p>
 
-### Data Science
-<img src="https://skillicons.dev/icons?i=mysql,r,py,bash" alt="My Skills" />
 
 
 <details>
