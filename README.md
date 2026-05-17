@@ -5,6 +5,8 @@
 PhD candidate in Biological Sciences at the University of Gdańsk, currently focused on statistical analysis and data science in R and Python.
 I work mainly with biological data, data visualization, and reproducible research in autoimmune skin diseases.
 
+As a hobby, I enjoy creating websites, and I also have experience building commercial websites for clients 
+
 
 ## Stack:
 
