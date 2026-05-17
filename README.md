@@ -39,8 +39,3 @@ As a hobby, I enjoy creating websites, and I also have experience building comme
 
 
 
-<details>
-<summary>Some Stats</summary>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermenea&show_icons=true&locale=en&layout=compact&theme=transparent" alt="vermenea" /> 
-</details>
-
